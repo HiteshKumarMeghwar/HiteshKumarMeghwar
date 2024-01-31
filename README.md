@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Full Stack developer from Sindh(Pakistan)</h3>
 
-- 🔭 I’m currently working on [Website Builder](https://lbh1.netlify.app/)
+- 🔭 I’m currently working on [Website Builder](https://raqib.deliverybazar.com/raqib/)
 
 - 🌱 I’m currently learning **React Native, Blockchain, AI**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hiteshkumarkunri@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3KluuHl]
+- 📄 Know about my experiences [https://raqib.deliverybazar.com/raqib/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
