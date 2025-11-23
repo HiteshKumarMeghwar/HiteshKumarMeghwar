@@ -19,10 +19,10 @@ Currently working on large-scale automation, agentic AI workflows, and my dream 
   👉 https://raqib.deliverybazar.com/raqib/
 
 - 🌱 Exploring advanced technologies:  
-  **LangChain • LangGraph • AI(ML,DL, GenAI) • Agentic Systems**
+  **LangChain • LangGraph • AI(ML, DL, GenAI) • Agentic Systems**
 
 - 💬 Ask me about:  
-  **MERN • ReactJS • Laravel/PHP • GoLang • WordPress • Freelancing**
+  **Laravel/PHP • LangChain • LangGraph • GoLang • Python • Freelancing**
 
 - 📫 Reach me at: **hiteshkumarkunri@gmail.com**
 
