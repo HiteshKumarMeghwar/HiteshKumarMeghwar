@@ -19,7 +19,7 @@ Currently working on large-scale automation, agentic AI workflows, and my dream 
   👉 https://raqib.deliverybazar.com/raqib/
 
 - 🌱 Exploring advanced technologies:  
-  **React Native • Blockchain • AI • Agentic Systems**
+  **LangChain • LangGraph • AI(ML,DL, GenAI) • Agentic Systems**
 
 - 💬 Ask me about:  
   **MERN • ReactJS • Laravel/PHP • GoLang • WordPress • Freelancing**
